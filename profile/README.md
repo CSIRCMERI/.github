@@ -42,4 +42,4 @@ Stay connected with us and our ongoing projects! Visit our [website](https://www
 
 ---
 
-<sub>Made with 🖤 by the CSIR-CMERI IT Lab team.</sub>
+<sub>Made with 🖤 by the CSIR-CMERI IT Lab Member [Arnab](https://github.com/Arnab-m1).</sub>
